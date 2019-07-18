@@ -1,0 +1,9 @@
+-   id: npx
+    name: npx
+    entry: npx
+    language: node
+    'types': [javascript]
+    args: []
+    files: ''
+    require_serial: false
+    additional_dependencies: ["npx@6.9.0"]
